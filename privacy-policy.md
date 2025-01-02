@@ -1,6 +1,6 @@
 # Privacy Policy for Prompt Manager Extension
 
-Last updated: [Current Date]
+Last updated: 02/01/2025
 
 ## Introduction
 This Privacy Policy describes how the Prompt Manager Extension ("we", "our", or "the extension") collects, uses, and handles your information when you use our browser extension.
@@ -47,7 +47,7 @@ You have the right to:
 We may update this Privacy Policy from time to time. We will notify users of any changes by updating the "Last updated" date of this policy.
 
 ## Contact
-If you have questions or concerns about this privacy policy, please create an issue in our GitHub repository at [Your Repository URL].
+If you have questions or concerns about this privacy policy, please create an issue in our GitHub repository at https://github.com/idobry/prompt-manager-extension-privacy.
 
 ## Compliance
 This extension complies with:
